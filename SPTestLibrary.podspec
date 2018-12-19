@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.2"   #版本号
   s.summary      = "简短描述."   #简短介绍，下面是详细介绍
   s.description  = "详细描述哈哈哈哈哈哈"
-  s.homepage     = "https://github.com/sp55/TestLibrayPodspecs.git" #主页,这里要填写可以访问到的地址，不然验证不通过
+  s.homepage     = "https://www.baidu.com" #主页,这里要填写可以访问到的地址，不然验证不通过
   s.license      = "MIT" #开源协议
   s.author       = "jishoupeng" #作者信息
   s.platform     = :ios, "9.0"#支持的平台及版本
