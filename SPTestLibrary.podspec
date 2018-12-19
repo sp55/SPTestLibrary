@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.description  = "详细描述哈哈哈哈哈哈"
   s.homepage     = "https://github.com/sp55/SPTestLibrary" #主页,这里要填写可以访问到的地址，不然验证不通过
   s.license      = "MIT" #开源协议
-  s.author       = { "jishoupeng" }#作者信息
+  s.author       = "jishoupeng" #作者信息
   s.platform     = :ios, "9.0"#支持的平台及版本
   s.source       = { :git => "https://github.com/sp55/SPTestLibrary.git", :tag => s.version }#项目地址，这里不支持ssh的地址，验证不通过，只支持HTTP和HTTPS，最好使用HTTPS
 
